@@ -13,8 +13,8 @@ const UserAvatar = () => <div className="w-8 h-8 rounded-full bg-blue-500 flex i
 const AiAvatar = () => <div className="w-8 h-8 rounded-full bg-green-500 flex items-center justify-center font-bold text-white">AI</div>;
 
 
-// !!! JANGAN LUPA, GUNAKAN URL NGROK ANDA YANG MASIH AKTIF !!!
-const API_URL = "https://72b5-34-106-222-229.ngrok-free.app/generate-code";
+// !!! JANGAN LUPA, GUNAKAN URL NGROK ANDA YANG MASIH AKTIF DAN DIAKHIRI DENGAN /generate-code!!!
+const API_URL = "url ngrok/generate-code";
 
 
 function App() {
